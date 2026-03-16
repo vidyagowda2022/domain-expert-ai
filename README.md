@@ -4,18 +4,18 @@ This is a domain specific AI assistant project.
 
 The goal of this project is to build a system that can answer questions from specialized domains using LLMs.
 
-TECH STACK:
+Tech Stack:
 -React
 -TypeScript
 -Vite
 -LLM APIs
 
-FEATURES:
+Features:
 -AI powered responses
 -Simple chat interface
 -Domain specific assistant
 
-FUTURE IMPROVEMENTS:
+Future Improvements:
 -RAG implementation
 -vector database
 -document ingestion
